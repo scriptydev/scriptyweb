@@ -1,4 +1,4 @@
-# scripty-html
+# scripty.html
 
 ## Imagine a bot...
 
