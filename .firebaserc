@@ -1,5 +1,9 @@
 {
   "projects": {
     "default": "scriptybotdev"
+  },
+  "hosting": {
+    "site": "scriptybot",
+    "public": "public"
   }
 }
